@@ -13,3 +13,5 @@ https://studio.code.org/projects/applab/5f1c890c-4c86-4dac-9a57-48363bf209f9 - v
 
 ## Freshman Projects
 I cannot share them due to limitations of the account they were made on. But I have a video of each app I built and copy-pasted the code for each of them.
+
+(I haven't added the video yet btw. I have to add it before April lolll)
